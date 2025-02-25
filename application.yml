@@ -1,6 +1,6 @@
 spring:
-   application:
-     name: config 
+  application:
+    name: config
 eureka:
   client:
     service-url:
